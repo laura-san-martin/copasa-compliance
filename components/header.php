@@ -1,5 +1,5 @@
 <?php 
-$preUrl = "/copasa-compliance";
+$preUrl = "";
 
 $opcoes = json_decode(
     '{
