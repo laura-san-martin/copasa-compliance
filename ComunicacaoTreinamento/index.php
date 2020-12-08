@@ -139,13 +139,13 @@ include('../components/header.php'); ?>
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/caravana/Divinopolis.jpg" />
                             <p class="text-center">Divinópolis</p>
                         </a>
-                        <a data-fancybox="gallery3"  data-caption="Grupo Teatro Copasa - Peáa Sobre Integridade" href="<?php echo $preUrl ?>/public/imgs/pics/caravana/Grupo-Teatro-Copasa-Peaa-Sobre-Integridade.jpg" class="col-6 col-md-4  copasa__galeria">
+                        <a data-fancybox="gallery3"  data-caption="Grupo Teatro Copasa - Peça Sobre Integridade" href="<?php echo $preUrl ?>/public/imgs/pics/caravana/Grupo-Teatro-Copasa-Peaa-Sobre-Integridade.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/caravana/Grupo-Teatro-Copasa-Peaa-Sobre-Integridade.jpg" />
-                            <p class="text-center">Grupo Teatro Copasa - Peáa Sobre Integridade</p>
+                            <p class="text-center">Grupo Teatro Copasa - Peça Sobre Integridade</p>
                         </a>
-                        <a data-fancybox="gallery3"  data-caption="Grupo Teatro Copasa - Peáa Sobre Integridade" href="<?php echo $preUrl ?>/public/imgs/pics/caravana/Grupo-Teatro-Copasa-Peaa-Sobre-Integridade-2.jpg" class="col-6 col-md-4  copasa__galeria">
+                        <a data-fancybox="gallery3"  data-caption="Grupo Teatro Copasa - Peça Sobre Integridade" href="<?php echo $preUrl ?>/public/imgs/pics/caravana/Grupo-Teatro-Copasa-Peaa-Sobre-Integridade-2.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/caravana/Grupo-Teatro-Copasa-Peaa-Sobre-Integridade-2.jpg" />
-                            <p class="text-center">Grupo Teatro Copasa - Peáa Sobre Integridade</p>
+                            <p class="text-center">Grupo Teatro Copasa - Peça Sobre Integridade</p>
                         </a>
                         <a data-fancybox="gallery3"  data-caption="Ipatinga" href="<?php echo $preUrl ?>/public/imgs/pics/caravana/Ipatinga.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/caravana/Ipatinga.jpg" />
