@@ -49,13 +49,13 @@ $opcoes = json_decode(
                             </a>
                             <div class="copasa__lista">
                                 <ol>
-                                    <li><a href="<?php echo $preUrl ?>/governanca" class="copasa__botao">Governança e Comprometimento da Alta Administração</a></li>
-                                    <li><a href="<?php echo $preUrl ?>/gestao-e-controle" class="copasa__botao">Gestão de Riscos e Controles Internos</a></li>
-                                    <li><a href="<?php echo $preUrl ?>/instrumentos-de-integridade" class="copasa__botao">Instrumentos de Integridade</a></li>
-                                    <li><a href="<?php echo $preUrl ?>/comunicacao-e-treinamento" class="copasa__botao">Comunicação e Treinamento</a></li>
-                                    <li><a href="<?php echo $preUrl ?>/due-diligence" class="copasa__botao">Due Diligence</a></li>
-                                    <li><a href="<?php echo $preUrl ?>/monitoramento-e-tratamento" class="copasa__botao">Monitoramento e tratamento</a></li>
-                                    <li><a href="<?php echo $preUrl ?>/transparencia-informacao-e-controle" class="copasa__botao">Transparência pública, informação relevante e controle social</a></li>
+                                    <li><a href="<?php echo $preUrl ?>/Governanca" class="copasa__botao">Governança e Comprometimento da Alta Administração</a></li>
+                                    <li><a href="<?php echo $preUrl ?>/GestaoControle" class="copasa__botao">Gestão de Riscos e Controles Internos</a></li>
+                                    <li><a href="<?php echo $preUrl ?>/InstrumentosDeIntegridade" class="copasa__botao">Instrumentos de Integridade</a></li>
+                                    <li><a href="<?php echo $preUrl ?>/ComunicacaoTreinamento" class="copasa__botao">Comunicação e Treinamento</a></li>
+                                    <li><a href="<?php echo $preUrl ?>/DueDiligence" class="copasa__botao">Due Diligence</a></li>
+                                    <li><a href="<?php echo $preUrl ?>/MonitoramentoTratamento" class="copasa__botao">Monitoramento e tratamento</a></li>
+                                    <li><a href="<?php echo $preUrl ?>/TransparenciaInformacaoControle" class="copasa__botao">Transparência pública, informação relevante e controle social</a></li>
                                 </ol>
                             </div>
                             <div class="dark-graient-menu"></div>

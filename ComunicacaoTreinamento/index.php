@@ -31,66 +31,66 @@ include('../components/header.php'); ?>
                         <p>Com o objetivo de disseminar uma cultura de integridade, difundir a importância dos controles internos e dos riscos aos quais a empresa está exposta, disseminar a Política Anticorrupção e Código de Conduta Ética, demonstrar a relevância desses valores no cotidiano da Companhia, é realizado anualmente o Workshop Integridade, destinado a todos os empregados da Copasa e Copanor.</p>
 
                     <div class="row">
-                        <div class="col-6 col-md-4   copasa__galeria">
+                        <a data-fancybox="gallery" data-caption="Araxá" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/Araxa.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/workshop/Araxa.jpg" />
                             <p class="text-center">Araxá</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery" data-caption="Ipatinga" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/Ipatinga.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/workshop/Ipatinga.jpg" />
                             <p class="text-center">Ipatinga</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery" data-caption="Teófilo Otoni" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/Teofilo-Otoni.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/workshop/Teofilo-Otoni.jpg" />
                             <p class="text-center">Teófilo Otoni</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery" data-caption="Belo Horizonte" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/Belo-Horizonte.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/workshop/Belo-Horizonte.jpg" />
                             <p class="text-center">Belo Horizonte</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery" data-caption="Belo Horizonte" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/Belo-Horizonte-2.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/workshop/Belo-Horizonte-2.jpg" />
                             <p class="text-center">Belo Horizonte</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery" data-caption="Belo Horizonte" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/Belo-Horizonte-3.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/workshop/Belo-Horizonte-3.jpg" />
                             <p class="text-center">Belo Horizonte</p>
-                        </div>
-                        <div class="col-6 col-md-4   copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery" data-caption="Divinópolis" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/Divinopolis.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/workshop/Divinopolis.jpg" />
                             <p class="text-center">Divinópolis</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery" data-caption="Frutal" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/Frutal.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/workshop/Frutal.jpg" />
                             <p class="text-center">Frutal</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery" data-caption="Ipatinga" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/Ipatinga.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/workshop/Ipatinga.jpg" />
                             <p class="text-center">Ipatinga</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery" data-caption="Líderes de Conformidade" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/Lideres-de-Conformidade.jpg"" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/workshop/Lideres-de-Conformidade.jpg" />
                             <p class="text-center">Líderes de Conformidade</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery" data-caption="Montes Claros" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/Montes-Claros.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/workshop/Montes-Claros.jpg" />
                             <p class="text-center">Montes Claros</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery" data-caption="São Sebastião do Paraíso" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/Sao-Sebastiao-do-Paraiso.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/workshop/Sao-Sebastiao-do-Paraiso.jpg" />
                             <p class="text-center">São Sebastião do Paraíso</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery" data-caption="Teófilo Otoni" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/Teofilo-Otoni.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/workshop/Teofilo-Otoni.jpg" />
                             <p class="text-center">Teófilo Otoni</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery" data-caption="Ubá" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/Uba.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/workshop/Uba.jpg" />
                             <p class="text-center">Ubá</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery" data-caption="Varginha" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/Varginha.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/workshop/Varginha.jpg" />
-                            <p class="text-center"> Varginha</p>
-                        </div>
+                            <p class="text-center">Varginha</p>
+                        </a>
                     </div>
                 </div>
             </div>
@@ -104,25 +104,25 @@ include('../components/header.php'); ?>
                     <div class="row">
                         <div class="col-12 col-md-8">
                             <div class="row">
-                                <div class="col-6 copasa__galeria">
+                                <a data-fancybox="gallery2" href="<?php echo $preUrl ?>/public/imgs/pics/combate-corrupcao/IMG_E3935.jpg" class="col-6 copasa__galeria">
                                     <img src="<?php echo $preUrl ?>/public/imgs/pics/combate-corrupcao/IMG_E3935.jpg" />
-                                </div>
-                                <div class="col-6 copasa__galeria">
+                                </a>
+                                <a data-fancybox="gallery2" href="<?php echo $preUrl ?>/public/imgs/pics/combate-corrupcao/P_20181127_084930.jpg" class="col-6 copasa__galeria">
                                     <img src="<?php echo $preUrl ?>/public/imgs/pics/combate-corrupcao/P_20181127_084930.jpg" />
-                                </div>
-                                <div class="col-6 copasa__galeria">
+                                </a>
+                                <a data-fancybox="gallery2" href="<?php echo $preUrl ?>/public/imgs/pics/combate-corrupcao/P_20191209_110208_SRES.jpg" class="col-6 copasa__galeria">
                                     <img src="<?php echo $preUrl ?>/public/imgs/pics/combate-corrupcao/P_20191209_110208_SRES.jpg" />
-                                </div>
-                                <div class="col-6 copasa__galeria">
+                                </a>
+                                <a data-fancybox="gallery2" href="<?php echo $preUrl ?>/public/imgs/pics/combate-corrupcao/P_20191209_083938.jpg" class="col-6 copasa__galeria">
                                     <img src="<?php echo $preUrl ?>/public/imgs/pics/combate-corrupcao/P_20191209_083938.jpg" />
-                                </div>
+                                </a>
                             </div>
                         </div>
                         <div class="col-12 col-md-4">
                             <div class="row">
-                                <div class="col-12 copasa__galeria copasa__galeria--alt">
+                                <a data-fancybox="gallery2" href="<?php echo $preUrl ?>/public/imgs/pics/combate-corrupcao/P_20190812_090808.jpg" class="col-12 copasa__galeria copasa__galeria--alt">
                                     <img src="<?php echo $preUrl ?>/public/imgs/pics/combate-corrupcao/P_20190812_090808.jpg" />
-                                </div>
+                                </a>
                             </div>
                         </div>
                     </div>
@@ -135,42 +135,42 @@ include('../components/header.php'); ?>
                     </div>
                         <p>Também em celebração ao Dia Internacional de Combate a Corrupção, a Superintendência de Compliance promove, anualmente, evento comemorativo em todas as Unidades de Negócio em que a Copasa atua. Esses eventos tem como objetivo disseminar a cultura da Integridade aos empregados que estão fora da região metropolitana de Belo Horizonte.</p>
                     <div class="row">
-                        <div class="col-6 col-md-4   copasa__galeria">
+                        <a data-fancybox="gallery3"  data-caption="Divinópolis" href="<?php echo $preUrl ?>/public/imgs/pics/caravana/Divinopolis.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/caravana/Divinopolis.jpg" />
                             <p class="text-center">Divinópolis</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery3"  data-caption="Grupo Teatro Copasa - Peáa Sobre Integridade" href="<?php echo $preUrl ?>/public/imgs/pics/caravana/Grupo-Teatro-Copasa-Peaa-Sobre-Integridade.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/caravana/Grupo-Teatro-Copasa-Peaa-Sobre-Integridade.jpg" />
                             <p class="text-center">Grupo Teatro Copasa - Peáa Sobre Integridade</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
-                            <img src="<?php echo $preUrl ?>/public/imgs/pics/caravana/Grupo-Teatro-Copasa-Peaa-Sobre-Integridade.jpg" />
+                        </a>
+                        <a data-fancybox="gallery3"  data-caption="Grupo Teatro Copasa - Peáa Sobre Integridade" href="<?php echo $preUrl ?>/public/imgs/pics/caravana/Grupo-Teatro-Copasa-Peaa-Sobre-Integridade-2.jpg" class="col-6 col-md-4  copasa__galeria">
+                            <img src="<?php echo $preUrl ?>/public/imgs/pics/caravana/Grupo-Teatro-Copasa-Peaa-Sobre-Integridade-2.jpg" />
                             <p class="text-center">Grupo Teatro Copasa - Peáa Sobre Integridade</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery3"  data-caption="Ipatinga" href="<?php echo $preUrl ?>/public/imgs/pics/caravana/Ipatinga.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/caravana/Ipatinga.jpg" />
                             <p class="text-center">Ipatinga</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery3"  data-caption="Montes Claros" href="<?php echo $preUrl ?>/public/imgs/pics/caravana/Montes-Claros.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/caravana/Montes-Claros.jpg" />
                             <p class="text-center">Montes Claros</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery3"  data-caption="Patos de Minas" href="<?php echo $preUrl ?>/public/imgs/pics/caravana/Patos-de-Minas.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/caravana/Patos-de-Minas.jpg" />
                             <p class="text-center">Patos de Minas</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery3"  data-caption="Teófilo Otoni" href="<?php echo $preUrl ?>/public/imgs/pics/caravana/Teofilo-Otoni.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/caravana/Teofilo-Otoni.jpg" />
                             <p class="text-center">Teófilo Otoni</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery3"  data-caption="Ubá" href="<?php echo $preUrl ?>/public/imgs/pics/caravana/Uba.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/caravana/Uba.jpg" />
                             <p class="text-center">Ubá</p>
-                        </div>
-                        <div class="col-6 col-md-4  copasa__galeria">
+                        </a>
+                        <a data-fancybox="gallery3"  data-caption="Varginha" href="<?php echo $preUrl ?>/public/imgs/pics/caravana/Varginha.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/caravana/Varginha.jpg" />
-                            <p class="text-center"> Varginha</p>
-                        </div>
+                            <p class="text-center">Varginha</p>
+                        </a>
                     </div>
                 </div>
             </div>

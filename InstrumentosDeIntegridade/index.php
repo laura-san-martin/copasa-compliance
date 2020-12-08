@@ -36,39 +36,39 @@ include('../components/header.php'); ?>
 
                         <div class="copasa__subtitulo copasa__subtitulo--border py-3">
                             <p>Política Anticorrupção</p>
-                            <a href="http://www.copasa.com.br/wps/wcm/connect/dbd6a571-9ed5-4438-aa5c-447231706498/Pol%C3%ADtica_Anticorrupcao1.pdf?MOD=AJPERES&CVID=ngRs1Iy" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
+                            <a href="http://www.copasa.com.br/compliance/PDFs/PoliticaAnticorrupcao.PDF" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
                         </div>
                         <div class="copasa__subtitulo copasa__subtitulo--border py-3">
                             <p>Política de Conflito de Interesses</p>
-                            <a href="http://www.copasa.com.br/wps/wcm/connect/802af415-e9b6-44e0-97f7-864689621e5b/Pol%C3%ADtica_de_Conflito_de_Interesses.pdf?MOD=AJPERES&CVID=ng6BVNJ" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
+                            <a href="http://www.copasa.com.br/compliance/PDFs/PoliticaConflitoInteresses.PDF" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
                         </div>
                         <div class="copasa__subtitulo copasa__subtitulo--border py-3">
                             <p>Política de Gestão de Riscos</p>
-                            <a href="http://www.copasa.com.br/wps/wcm/connect/28f43639-a804-49ca-9480-42447b2ff682/Pol%C3%ADtica_de_Gestao_de_Riscos_Corporativos_2.pdf?MOD=AJPERES&CVID=nha..s1" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
+                            <a href="http://www.copasa.com.br/compliance/PDFs/PoliticaGestaoDeRiscos.PDF" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
                         </div>
                         <div class="copasa__subtitulo copasa__subtitulo--border py-3">
                             <p>Política de Transações com Partes Relacionadas</p>
-                            <a href="http://www.copasa.com.br/wps/wcm/connect/96eac634-9520-4331-8a9a-0fc254702bb8/Pol%C3%ADtica_de_Transacoes_com_Partes_Relacionadas.pdf?MOD=AJPERES&CVID=ng6EwEW" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
+                            <a href="http://www.copasa.com.br/compliance/PDFs/PoliticaTransacoesPartesRelacionadas.PDF" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
                         </div>
                         <div class="copasa__subtitulo copasa__subtitulo--border py-3">
                             <p>Política de Brindes e Presentes</p>
-                            <a href="http://www.copasa.com.br/wps/wcm/connect/3865c424-a44e-4252-b1c5-43b77510bcb9/Pol%C3%ADtica_de_Brindes_e_Presentes.pdf?MOD=AJPERES&CVID=ng6BQFA" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
+                            <a href="http://www.copasa.com.br/compliance/PDFs/PoliticaBrindesPresentes.PDF" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
                         </div>
                         <div class="copasa__subtitulo copasa__subtitulo--border py-3">
                             <p>Política de Controles Internos </p>
-                            <a href="http://www.copasa.com.br/wps/wcm/connect/e52e3fe8-d8e8-4336-a79b-6abd49beda45/Pol%C3%ADtica_de_Controles_Internos.pdf?MOD=AJPERES&CVID=ng6B.2T" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
+                            <a href="http://www.copasa.com.br/compliance/PDFs/PoliticaControlesInternos.PDF" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
                         </div>
                         <div class="copasa__subtitulo copasa__subtitulo--border py-3">
                             <p>Política de Governança Corporativa</p>
-                            <a href="http://www.copasa.com.br/wps/wcm/connect/24be39a1-2ff7-4b7a-aa62-7b56545e3f22/Pol%C3%ADtica_de_Governanca_Corporativa.pdf?MOD=AJPERES&CVID=ng6DdO6" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
+                            <a href="http://www.copasa.com.br/compliance/PDFs/PoliticaGovernancaCorporativa.PDF" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
                         </div>
                         <div class="copasa__subtitulo copasa__subtitulo--border py-3">
                             <p>Política de Due Diligence de Integridade</p>
-                            <a href="http://www.copasa.com.br/wps/wcm/connect/8496c1a1-0169-4e52-8258-9052ff741282/Pol%C3%ADtica_de_Due_Diligence_de_Integridade1.pdf?MOD=AJPERES&CVID=ngRsdGV" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
+                            <a href="http://www.copasa.com.br/compliance/PDFs/PoliticaDueDiligence.PDF" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
                         </div>
                         <div class="copasa__subtitulo copasa__subtitulo--border py-3">
                             <p>Política de Reuniões</p>
-                            <a href="" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
+                            <a href="http://www.copasa.com.br/compliance/PDFs/PoliticaDeReunioes.PDF" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
                         </div>
                     </div>
                 </div>
@@ -130,7 +130,7 @@ include('../components/header.php'); ?>
                 <div class="col-12 col-md-8 col-lg-6 offset-md-2">
                     <div class="copasa__subtitulo py-4">
                         <h2>Políticas de Compliance/Integridade</h2>
-                        <a href="http://www.copasa.com.br/wps/wcm/connect/afebb87d-8712-424d-872d-bd361a216310/Pol%C3%ADtica_de_Protecao_de_Dados_Pessoais.pdf?MOD=AJPERES&CVID=ng6EcBb" target="_blank" class="copasa__botao--alt copasa__botao--hand bg-pink color-white"><b class="px-5">Saiba mais</b></a>
+                        <a href="http://www.copasa.com.br/compliance/PDFs/PoliticaDePrivacidade.PDF" target="_blank" class="copasa__botao--alt copasa__botao--hand bg-pink color-white"><b class="px-5">Saiba mais</b></a>
                     </div>
                     <div class="pl-5 pb-5">
                         <p>A Lei geral de Proteção de Dados Pessoais (LGPD) estabelece parâmetros relativos ao tratamento de dados pessoais.</p>

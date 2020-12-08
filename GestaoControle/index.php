@@ -19,7 +19,7 @@ include('../components/header.php'); ?>
                 <div class="col-12 col-md-8 col-lg-6 offset-md-2">
                     <div class="copasa__subtitulo py-4">
                         <h2>Gestão de riscos</h2>
-                        <a target="_blank" href="http://www.copasa.com.br/wps/wcm/connect/28f43639-a804-49ca-9480-42447b2ff682/Pol%C3%ADtica_de_Gestao_de_Riscos_Corporativos_2.pdf?MOD=AJPERES&CVID=nha..s1" class="copasa__botao--alt copasa__botao--hand bg-yellow-light">Política de Gestão de Riscos</a>
+                        <a target="_blank" href="http://www.copasa.com.br/compliance/PDFs/PoliticaGestaoDeRiscos.PDF" class="copasa__botao--alt copasa__botao--hand bg-yellow-light">Política de Gestão de Riscos</a>
                     </div>
                     <div class="pl-5">
                         <p>No mundo corporativo, várias situações podem afetar os objetivos de uma empresa e comprometer suas atividades e a geração de valor. Para anteceder crises e impedir que danos ocorram, a Copasa implantou a Gestão de Riscos. </p>
@@ -33,7 +33,7 @@ include('../components/header.php'); ?>
                 <div class="col-12 col-md-8 col-lg-6 offset-md-2">
                     <div class="copasa__subtitulo py-4">
                         <h2>Controles Internos </h2>
-                        <a href="http://www.copasa.com.br/wps/wcm/connect/e52e3fe8-d8e8-4336-a79b-6abd49beda45/Pol%C3%ADtica_de_Controles_Internos.pdf?MOD=AJPERES&CVID=ng6B.2T" target="_blank" class="copasa__botao--alt bg-yellow-light copasa__botao--hand">Política de Controles Internos</a>
+                        <a href="http://www.copasa.com.br/compliance/PDFs/PoliticaControlesInternos.PDF" target="_blank" class="copasa__botao--alt bg-yellow-light copasa__botao--hand">Política de Controles Internos</a>
                     </div>
                     <div class="pl-5">
                         <p>O Sistema de Controle Interno da Copasa tem por finalidade proporcionar segurança razoável à realização dos objetivos relacionados a operações, divulgação e conformidade, em consonância com a metodologia do Committee of Sponsoring Organizations of the Treadway Commission (COSO).</p>

@@ -16,5 +16,6 @@
             </div>
         </div>
     </footer>
+    <script src="<?php echo $preUrl ?>/public/scripts/fancybox.js" type="text/javascript"></script>
 </body>
 </html>
