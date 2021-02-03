@@ -48,7 +48,7 @@ $opcoes = json_decode(
                             </a>
                             <div class="copasa__lista">
                                 <ol>
-                                    <li><a href="<?php echo $preUrl ?>/Governanca" class="copasa__botao">Governança e Comprometimento da Alta Administração</a></li>
+                                    <li><a href="<?php echo $preUrl ?>/governanca" class="copasa__botao">Governança e Comprometimento da Alta Administração</a></li>
                                     <li><a href="<?php echo $preUrl ?>/GestaoControle" class="copasa__botao">Gestão de Riscos e Controles Internos</a></li>
                                     <li><a href="<?php echo $preUrl ?>/InstrumentosDeIntegridade" class="copasa__botao">Instrumentos de Integridade</a></li>
                                     <li><a href="<?php echo $preUrl ?>/ComunicacaoTreinamento" class="copasa__botao">Comunicação e Treinamento</a></li>

@@ -14,7 +14,7 @@ include('components/header.php'); ?>
                 <div class="col-12 col-md-6 col-lg-5 col-xl-4 py-5 text-center">
                     <div class="copasa__lista__tags">
                         <ul>
-                            <li><a href="<?php echo $preUrl ?>/Governanca" class="copasa__botao">Governança e Comprometimento<br/> da Alta Administração</a></li>
+                            <li><a href="<?php echo $preUrl ?>/governanca" class="copasa__botao">Governança e Comprometimento<br/> da Alta Administração</a></li>
                             <li><a href="<?php echo $preUrl ?>/GestaoControle" class="copasa__botao">Gestão de Riscos <br/>e Controles Internos</a></li>
                             <li><a href="<?php echo $preUrl ?>/InstrumentosDeIntegridade" class="copasa__botao">Instrumentos <br/>de Integridade</a></li>
                             <li><a href="<?php echo $preUrl ?>/ComunicacaoTreinamento" class="copasa__botao">Comunicação <br/>e Treinamento</a></li>

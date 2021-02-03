@@ -12,7 +12,7 @@ include('../components/header.php'); ?>
                 <div class="col-12 col-md-10 offset-md-1 pt-4">
                     <div class="copasa__titulo">
                         <span class="gradient-yellow"></span>
-                        <h1 class="color-purple" >Governança e Comprometimento 
+                        <h1 class="color-purple" >Governança e Comprometimento <br/>
                         da Alta Administração</h1>
                     </div>
                 </div>
