@@ -11,7 +11,6 @@ $opcoes = json_decode(
 }', true
 );
 
-
 ?>
 
 <!DOCTYPE html>

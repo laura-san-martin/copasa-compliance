@@ -8,7 +8,7 @@ include('../components/header.php'); ?>
         <div class="container">
             <div class="copasa__banner copasa__banner--5" ><img src="<?php echo $preUrl ?>/public/imgs/icons/detalhe-fundo.svg" /></div>
             <div class="row  pt-5">
-                <div class="col-12 col-md-8 col-lg-7 offset-md-2 pt-4">
+                <div class="col-12 col-md-8 offset-md-1 pt-4">
                     <div class="copasa__titulo">
                         <span class="gradient-yellow"></span>
                         <h1 class="color-pink">Gestão de Riscos e Controles Internos</h1>
@@ -16,7 +16,7 @@ include('../components/header.php'); ?>
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 col-md-8 col-lg-6 offset-md-2">
+                <div class="col-12 col-md-10 offset-md-1">
                     <div class="copasa__subtitulo py-4">
                         <h2>Gestão de riscos</h2>
                         <a target="_blank" href="http://www.copasa.com.br/compliance/PDFs/PoliticaGestaoDeRiscos.PDF" class="copasa__botao--alt copasa__botao--hand bg-yellow-light">Política de Gestão de Riscos</a>
@@ -30,7 +30,7 @@ include('../components/header.php'); ?>
                 </div>
             </div>
             <div class="row py-5">
-                <div class="col-12 col-md-8 col-lg-6 offset-md-2">
+                <div class="col-12 col-md-10 offset-md-1">
                     <div class="copasa__subtitulo py-4">
                         <h2>Controles Internos </h2>
                         <a href="http://www.copasa.com.br/compliance/PDFs/PoliticaControlesInternos.PDF" target="_blank" class="copasa__botao--alt bg-yellow-light copasa__botao--hand">Política de Controles Internos</a>

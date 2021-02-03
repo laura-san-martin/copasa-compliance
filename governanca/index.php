@@ -9,7 +9,7 @@ include('../components/header.php'); ?>
         <div class="container">
             <div class="copasa__banner copasa__banner--3" ><img src="<?php echo $preUrl ?>/public/imgs/icons/detalhe-fundo.svg" /></div>
             <div class="row  pt-5">
-                <div class="col-12 col-md-6 col-lg-6 offset-md-2 pt-4">
+                <div class="col-12 col-md-10 offset-md-1 pt-4">
                     <div class="copasa__titulo">
                         <span class="gradient-yellow"></span>
                         <h1 class="color-purple" >Governança e Comprometimento 
@@ -18,13 +18,13 @@ include('../components/header.php'); ?>
                 </div>
             </div>
             <div class="row  pt-5">
-                <div class="col-12 col-md-8 col-xl-5 offset-md-2 pt-4">
+                <div class="col-12 col-md-8 offset-md-1 pt-4">
                     <p>As boas práticas de governança corporativa convertem princípios em ações objetivas, alinhando interesses com a finalidade de preservar e otimizar o valor da organização, facilitando seu acesso a recursos e contribuindo para sua longevidade. O comprometimento da Alta Administração é a base do Plano de Integridade, pois o exemplo vem de cima (Tone at the top). 
                     </p>
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 col-md-8 col-xl-5 offset-md-2">
+                <div class="col-12 col-md-8 offset-md-1">
                     <div class="copasa__perfil">
                         <img src="<?php echo $preUrl ?>/public/imgs/pics/governanca/Carlos-Botrel-Berto.jpg" />
                         <p class="text-center">Carlos Botrel Berto</p>

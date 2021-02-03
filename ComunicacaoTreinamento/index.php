@@ -8,7 +8,7 @@ include('../components/header.php'); ?>
         <div class="container">
                         <div class="copasa__banner copasa__banner--3" ><img src="<?php echo $preUrl ?>/public/imgs/icons/detalhe-fundo.svg" /></div>
             <div class="row  pt-5">
-                <div class="col-12 col-md-6 col-lg-7 offset-md-2 pt-4">
+                <div class="col-12 col-md-10 offset-md-1 pt-4">
                     <div class="copasa__titulo">
                         <span class="gradient-pink"></span>
                         <h1 class="color-aqua-dark">Comunicação e Treinamento</h1>
@@ -16,21 +16,21 @@ include('../components/header.php'); ?>
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 col-md-6 col-lg-6 offset-md-2">
+                <div class="col-12 col-md-10  offset-md-1">
                     <div class="mt-5">
                         <p>A Superintendência de Compliance tem a responsabilidade de promover a comunicação e treinar periodicamente os empregados, membros da Alta da Administração e fornecedores sobre os temas afetos à integridade e a ética.</p>
                     </div>
                 </div>
             </div>
             <div class="row pt-3">
-                <div class="col-12 col-md-6 col-lg-6 offset-md-2">
+                <div class="col-12 col-md-10  offset-md-1">
                     <div class="copasa__subtitulo d-block py-4">
                         <h2>TREINAMENTOS REALIZADOS</h2>
                         <h2 class="mt-4">Workshop Integridade</h2>
                     </div>
                         <p>Com o objetivo de disseminar uma cultura de integridade, difundir a importância dos controles internos e dos riscos aos quais a empresa está exposta, disseminar a Política Anticorrupção e Código de Conduta Ética, demonstrar a relevância desses valores no cotidiano da Companhia, é realizado anualmente o Workshop Integridade, destinado a todos os empregados da Copasa e Copanor.</p>
 
-                    <div class="row">
+                    <div class="row py-4">
                         <a data-fancybox="gallery" data-caption="Araxá" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/Araxa.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/workshop/Araxa.jpg" />
                             <p class="text-center">Araxá</p>
@@ -95,13 +95,13 @@ include('../components/header.php'); ?>
                 </div>
             </div>
             <div class="row pt-3">
-                <div class="col-12 col-md-6 col-lg-6 offset-md-2">
+                <div class="col-12 col-md-10  offset-md-1">
                     <div class="copasa__subtitulo py-4">
                         <h2>Dia Internacional de Combate a Corrupção</h2>
                     </div>
                     <p>O Dia Internacional de Combate a Corrupção é celebrado em 9 de dezembro, data em que o Brasil e mais 101 países assinaram a Convenção das Nações Unidas Contra a Corrupção, em 2003, na cidade mexicana de Mérida.</p>
                     <p>Anualmente, a Copasa promove um evento nesta data com o objetivo de disseminar a cultura da Integridade e lembrar a todos que a Companhia está comprometida com o combate à corrupção, e não tolera que seus administradores, colaboradores, parceiros e fornecedores se envolvam em casos de fraudes e irregularidades.</p>
-                    <div class="row">
+                    <div class="row py-4">
                         <div class="col-12 col-md-8">
                             <div class="row">
                                 <a data-fancybox="gallery2" href="<?php echo $preUrl ?>/public/imgs/pics/combate-corrupcao/IMG_E3935.jpg" class="col-6 copasa__galeria">
@@ -129,12 +129,12 @@ include('../components/header.php'); ?>
                 </div>
             </div>
             <div class="row pt-3">
-                <div class="col-12 col-md-6 col-lg-6 offset-md-2">
+                <div class="col-12 col-md-10  offset-md-1">
                     <div class="copasa__subtitulo d-block py-4">
                         <h2>Caravana da Integridade</h2>
                     </div>
                         <p>Também em celebração ao Dia Internacional de Combate a Corrupção, a Superintendência de Compliance promove, anualmente, evento comemorativo em todas as Unidades de Negócio em que a Copasa atua. Esses eventos tem como objetivo disseminar a cultura da Integridade aos empregados que estão fora da região metropolitana de Belo Horizonte.</p>
-                    <div class="row">
+                    <div class="row py-4">
                         <a data-fancybox="gallery3"  data-caption="Divinópolis" href="<?php echo $preUrl ?>/public/imgs/pics/caravana/Divinopolis.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/caravana/Divinopolis.jpg" />
                             <p class="text-center">Divinópolis</p>
@@ -171,6 +171,50 @@ include('../components/header.php'); ?>
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/caravana/Varginha.jpg" />
                             <p class="text-center">Varginha</p>
                         </a>
+                    </div>
+                </div>
+            </div>
+            <div class="row pt-3">
+                <div class="col-12 col-md-10  offset-md-1">
+                    <div class="copasa__subtitulo d-block py-4">
+                        <h2>Campanha "Se liga na Integridade"</h2>
+                    </div>
+                        <p>Em 06 de janeiro de 2020, iniciamos a Campanha "Se liga na Integridade". Toda segunda-feira será disponibilizado, um vídeo animado de curta duração, com conteúdos diversos que abordam temas como Plano de Integridade, Código de Conduta Ética, Combate à Corrupção, dentre outros.</p>
+                    <div class="py-4 px-5 text-center">
+                       <img class="m-auto" src="<?php echo $preUrl ?>/public/imgs/logos/logo-se-liga.png" />
+                    </div>
+                </div>
+            </div>
+            <div class="row pt-3">
+                <div class="col-12 col-md-10  offset-md-1">
+                    <div class="copasa__subtitulo d-block py-4">
+                        <h2>Boletim de Integridade</h2>
+                    </div>
+                        <p>O Boletim da Integridade da Copasa é uma publicação bimestral que busca informar e envolver seus colaboradores com assuntos sobre ética, compliance, integridade, gestão de riscos e ouvidoria.</p>
+                    <div class="py-4 px-5 text-center">
+                       <img class="m-auto" src="<?php echo $preUrl ?>/public/imgs/logos/boletim.png" />
+                    </div>
+                </div>
+            </div>
+            <div class="row pt-3">
+                <div class="col-12 col-md-10  offset-md-1">
+                    <div class="copasa__subtitulo d-block py-4">
+                        <h2>Prêmio Ética nos Negócios</h2>
+                    </div>
+                        <p>Esta premiação tem como objetivo destacar as “melhores práticas” da Atuação Responsável Empresarial para servir de exemplo e motivação para as demais empresas em atuação no país.  A Copasa recebeu essa premiação com o “Programa Líderes de Conformidade”</p>
+                    <div class="py-4 px-5 text-center">
+                       <img class="m-auto" src="<?php echo $preUrl ?>/public/imgs/logos/logo-etica.png" />
+                    </div>
+                </div>
+            </div>
+            <div class="row pt-3">
+                <div class="col-12 col-md-10  offset-md-1">
+                    <div class="copasa__subtitulo d-block py-4">
+                        <h2>Prêmio Ética nos Negócios</h2>
+                    </div>
+                        <p>Os líderes de Conformidade são empregados da Copasa escolhidos para disseminar a cultura e os treinamentos de integridade, ajudar a tornar o ambiente corporativo íntegro, ético e transparente; apoiar na aderência dos empregados às normas, legislações e à cultura da integridade, dentre outras atividades essenciais para a Companhia.</p>
+                    <div class="py-4">
+                       <img class="w-100" src="<?php echo $preUrl ?>/public/imgs/logos/foto.png" />
                     </div>
                 </div>
             </div>

@@ -8,7 +8,7 @@ include('../components/header.php'); ?>
         <div class="container">
             <div class="copasa__banner copasa__banner--7" ><img src="<?php echo $preUrl ?>/public/imgs/icons/detalhe-fundo.svg" /></div>
             <div class="row  pt-5">
-                <div class="col-12 col-md-8 col-lg-7 offset-md-2 pt-4">
+                <div class="col-12 col-md-10  offset-md-1 pt-4">
                     <div class="copasa__titulo">
                         <span class="gradient-pink"></span>
                         <h1 class="color-aqua-dark">Instrumentos de Integridade</h1>
@@ -16,7 +16,7 @@ include('../components/header.php'); ?>
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 col-md-8 col-lg-6 offset-md-2">
+                <div class="col-12 col-md-10  offset-md-1">
                     <div class="copasa__subtitulo py-4">
                         <h2>Código de Conduta Ética</h2>
                         <a href="http://www.copasa.com.br/wps/portal/internet/institucional/governanca-corporativa/codigo-de-conduta" target="_blank" class="copasa__botao--alt copasa__botao--hand bg-pink color-white"><b class="px-5">Saiba mais</b></a>
@@ -27,7 +27,7 @@ include('../components/header.php'); ?>
                 </div>
             </div>
             <div class="row pt-3">
-                <div class="col-12 col-md-8 col-lg-6 offset-md-2">
+                <div class="col-12 col-md-10 offset-md-1">
                     <div class="copasa__subtitulo py-4">
                         <h2>Políticas de Compliance/Integridade</h2>
                     </div>
@@ -74,7 +74,7 @@ include('../components/header.php'); ?>
                 </div>
             </div>
             <div class="row pt-3">
-                <div class="col-12 col-md-8 col-lg-6 offset-md-2">
+                <div class="col-12 col-md-10 offset-md-1">
                     <div class="copasa__subtitulo py-4">
                         <h2>Políticas de Compliance/Integridade</h2>
                     </div>
@@ -84,7 +84,7 @@ include('../components/header.php'); ?>
                 </div>
             </div>
             <div class="row pt-3">
-                <div class="col-12 col-md-8 col-lg-6 offset-md-2">
+                <div class="col-12 col-md-10 offset-md-1">
                     <div class="copasa__subtitulo py-4">
                         <h2>Confiabilidade dos registros, controles contábeis e relatórios e demonstrações financeiras da Copasa</h2>
                     </div>
@@ -94,7 +94,7 @@ include('../components/header.php'); ?>
                 </div>
             </div>
             <div class="row pt-3">
-                <div class="col-12 col-md-8 col-lg-6 offset-md-2">
+                <div class="col-12 col-md-10 offset-md-1">
                     <div class="copasa__subtitulo py-4">
                         <h2>Procedimentos para contratações</h2>
                     </div>
@@ -106,7 +106,7 @@ include('../components/header.php'); ?>
                 </div>
             </div>
             <div class="row pt-3">
-                <div class="col-12 col-md-8 col-lg-6 offset-md-2">
+                <div class="col-12 col-md-10 offset-md-1">
                     <div class="copasa__subtitulo py-4">
                         <h2>Canais de denúncia</h2>
                         <a href="http://www.copasa.com.br/wps/portal/internet/perfil/relacionamento/canal-de-linha-etica/" target="_blank" class="copasa__botao--alt copasa__botao--hand bg-pink color-white"><b class="px-5">Saiba mais</b></a>
@@ -117,7 +117,7 @@ include('../components/header.php'); ?>
                 </div>
             </div>
             <div class="row pt-3">
-                <div class="col-12 col-md-8 col-lg-6 offset-md-2">
+                <div class="col-12 col-md-10 offset-md-1">
                     <div class="copasa__subtitulo py-4">
                         <h2>Processo de tomada de decisões</h2>
                     </div>
@@ -127,7 +127,7 @@ include('../components/header.php'); ?>
                 </div>
             </div>
             <div class="row pt-3 pb-5">
-                <div class="col-12 col-md-8 col-lg-6 offset-md-2">
+                <div class="col-12 col-md-10 offset-md-1">
                     <div class="copasa__subtitulo py-4">
                         <h2>Políticas de Compliance/Integridade</h2>
                         <a href="http://www.copasa.com.br/compliance/PDFs/PoliticaDePrivacidade.PDF" target="_blank" class="copasa__botao--alt copasa__botao--hand bg-pink color-white"><b class="px-5">Saiba mais</b></a>

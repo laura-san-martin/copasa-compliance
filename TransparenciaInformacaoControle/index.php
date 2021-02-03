@@ -8,7 +8,7 @@ include('../components/header.php'); ?>
         <div class="container">
             <div class="copasa__banner copasa__banner--10" ><img src="<?php echo $preUrl ?>/public/imgs/icons/detalhe-fundo.svg" /></div>
             <div class="row  pt-5">
-                <div class="col-12 ocol-md-8 col-lg-7 offset-lg-2 pt-4">
+                <div class="col-12 col-lg-8 col-md-10  offset-lg-1 pt-4">
                     <div class="copasa__titulo">
                         <span class="gradient-yellow"></span>
                         <h1 class="color-pink">Transparência pública, informação relevante e controle social</h1>
@@ -16,7 +16,7 @@ include('../components/header.php'); ?>
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 ocol-md-8 col-lg-6 offset-lg-2">
+                <div class="col-12 col-lg-8 col-md-10 offset-lg-1">
                     <div class="copasa__subtitulo py-4">
                         <h2>Transparência Pública</h2>
                         <a href="http://www.copasa.com.br/wps/portal/internet/a-copasa/portal-da-transparencia" target="_blank" class="copasa__botao--alt copasa__botao--hand bg-yellow-light text-uppercase">Portal da Transparência</a>
@@ -28,7 +28,7 @@ include('../components/header.php'); ?>
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 ocol-md-8 col-lg-6 offset-lg-2">
+                <div class="col-12 col-lg-8 col-md-10 offset-lg-1">
                     <div class="copasa__subtitulo py-4">
                         <h2>Tratamento de Informação Relevante</h2>
                     </div>
@@ -38,7 +38,7 @@ include('../components/header.php'); ?>
                 </div>
             </div>
             <div class="row pb-5">
-                <div class="col-12 ocol-md-8 col-lg-6 offset-lg-2">
+                <div class="col-12 col-lg-8 col-md-10 offset-lg-1">
                     <div class="copasa__subtitulo py-4">
                         <h2>Controle Social</h2>
                     </div>

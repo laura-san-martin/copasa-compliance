@@ -8,7 +8,7 @@ include('../components/header.php'); ?>
         <div class="container">
         <div class="copasa__banner copasa__banner--7" ><img src="<?php echo $preUrl ?>/public/imgs/icons/detalhe-fundo.svg" /></div>
             <div class="row  pt-5">
-                <div class="col-12 col-md-6 col-lg-7 offset-2 pt-4">
+                <div class="col-12 col-md-10 offset-lg-1 pt-4">
                     <div class="copasa__titulo">
                         <span class="gradient-pink"></span>
                         <h1 class="color-aqua-dark">Due Diligence</h1>
@@ -16,7 +16,7 @@ include('../components/header.php'); ?>
                 </div>
             </div>
             <div class="row pb-5">
-                <div class="col-12 col-md-6 col-lg-6 offset-2">
+                <div class="col-12 col-md-10 offset-lg-1">
                     <div class="py-4 pl-5">
                         <a target="_blank" href="http://www.copasa.com.br/wps/wcm/connect/8496c1a1-0169-4e52-8258-9052ff741282/Pol%C3%ADtica_de_Due_Diligence_de_Integridade1.pdf?MOD=AJPERES&CVID=ngRsdGV" class="copasa__botao--alt copasa__botao--hand bg-yellow-light"><b class="px-4 text-uppercase">Política de Due Diligence de Integridade</b></a>
                     </div>
