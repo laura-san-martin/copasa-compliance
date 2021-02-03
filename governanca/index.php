@@ -26,12 +26,12 @@ include('../components/header.php'); ?>
             <div class="row">
                 <div class="col-12 col-md-8 offset-md-1">
                     <div class="copasa__perfil">
-                        <img src="<?php echo $preUrl ?>/public/imgs/pics/governanca/Carlos-Botrel-Berto.jpg" />
-                        <p class="text-center">Carlos Botrel Berto</p>
-                    </div>
-                    <div class="copasa__perfil">
                         <img src="<?php echo $preUrl ?>/public/imgs/pics/governanca/Carlos-Eduardo-Tavares-de-Castro.jpg" />
                         <p class="text-center">Carlos Eduardo Tavares de Castro</p>
+                    </div>
+                    <div class="copasa__perfil">
+                        <img src="<?php echo $preUrl ?>/public/imgs/pics/governanca/Carlos-Botrel-Berto.jpg" />
+                        <p class="text-center">Carlos Botrel Berto</p>
                     </div>
                     <div class="copasa__perfil">
                         <img src="<?php echo $preUrl ?>/public/imgs/pics/governanca/Cristiane-Schwanka.jpg" />
