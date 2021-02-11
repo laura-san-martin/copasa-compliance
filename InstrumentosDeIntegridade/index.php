@@ -70,13 +70,17 @@ include('../components/header.php'); ?>
                             <p>Política de Reuniões</p>
                             <a href="http://www.copasa.com.br/compliance/PDFs/PoliticaDeReunioes.PDF" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
                         </div>
+                        <div class="copasa__subtitulo copasa__subtitulo--border py-3">
+                            <p>Política de Doações e Patrocínios</p>
+                            <a href="http://www.copasa.com.br/wps/wcm/connect/2c2682ee-19fe-498d-9931-2f6e75990ab5/RI_Politica_Doacoes_e_Patrocinios-CSMG-2020-006_0.pdf?MOD=AJPERES&CVID=noYU.-j" target="_blank" class="copasa__botao--alt copasa__botao--document bg-pink color-white"><b>Saiba mais</b></a>
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="row pt-3">
                 <div class="col-12 col-md-10 offset-md-1">
                     <div class="copasa__subtitulo py-4">
-                        <h2>Políticas de Compliance/Integridade</h2>
+                        <h2>SISPATRI</h2>
                     </div>
                     <div class="pl-5">
                         <p>Os administradores, membros de comitês, conselheiros fiscais e colaboradores, visando a prevenção de atos de improbidade administrativa que gerem enriquecimento ilícito, nos termos da Lei Federal nº 8.429/92 e no Decreto Estadual nº 46.933/16, devem preencher a declaração anual de bens e valores de seu patrimônio privado, por meio do Sistema de Registro de Bens dos Agentes Públicos – SISPATRI, gerenciado pela Controladoria-Geral do Estado - CGE.</p>
@@ -129,12 +133,13 @@ include('../components/header.php'); ?>
             <div class="row pt-3 pb-5">
                 <div class="col-12 col-md-10 offset-md-1">
                     <div class="copasa__subtitulo py-4">
-                        <h2>Políticas de Compliance/Integridade</h2>
-                        <a href="http://www.copasa.com.br/compliance/PDFs/PoliticaDePrivacidade.PDF" target="_blank" class="copasa__botao--alt copasa__botao--hand bg-pink color-white"><b class="px-5">Saiba mais</b></a>
+                        <h2>Lei Geral de Proteção de Dados</h2>
+                        <a href="http://www.copasa.com.br/wps/wcm/connect/afebb87d-8712-424d-872d-bd361a216310/Pol%C3%ADtica_de_Protecao_de_Dados_Pessoais.pdf?MOD=AJPERES&CVID=ng6EcBb" target="_blank" class="copasa__botao--alt copasa__botao--hand bg-pink color-white"><b class="px-5">Saiba mais</b></a>
                     </div>
                     <div class="pl-5 pb-5">
                         <p>A Lei geral de Proteção de Dados Pessoais (LGPD) estabelece parâmetros relativos ao tratamento de dados pessoais.</p>
-                        <p>A Copasa possui uma Política de Privacidade que estabelece princípios, diretrizes e responsabilidades para proteção dos dados pessoais, nos sistemas e aplicativos da Companhia e uma Norma de Procedimentos, que determina os critérios e os procedimentos para a utilização de recursos computacionais, visando a segurança das informações, tratamento, proteção, guarda/backup, publicação e utilização em ambiente web.</p>
+                        <p>A Copasa possui uma Política de Proteção de Dados Pessoais, que tem por objetivo estabelecer diretrizes para uniformizar os procedimentos da Copasa no que concerne ao tratamento de dados pessoais em seus processos e a proteção desses dados.</p>
+                        <p>A Copasa também possui uma Política de Privacidade que estabelece princípios, diretrizes e responsabilidades para proteção dos dados pessoais, nos sistemas e aplicativos da Companhia e uma Norma de Procedimentos, que determina os critérios e os procedimentos para a utilização de recursos computacionais, visando a segurança das informações, tratamento, proteção, guarda/backup, publicação e utilização em ambiente web.</p>
                     </div>
                 </div>
             </div>
