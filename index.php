@@ -12,7 +12,7 @@ include('components/header.php'); ?>
                     <p class="color-white big pr-big">A Copasa reforça a busca permanente da ética e da transparência. Os princípios e valores, direitos e deveres devem permear a conduta de cada pessoa direta ou indiretamente relacionada com a organização.</p>
                 </div>
                 <div class="col-12 col-md-6 col-lg-5 py-5 text-center text-lg-left">
-                    <h2 class="color-white text-center pb-4">PLANO DE INTEGRIDADE</h2>
+                    <h2 class="color-white text-center pb-4">Plano de Integridade</h2>
                     <div class="copasa__lista__tags">
                         <ul>
                             <li><a href="<?php echo $preUrl ?>/governanca" class="copasa__botao">Governança e Comprometimento<br/> da Alta Administração</a></li>
