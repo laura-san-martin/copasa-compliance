@@ -23,7 +23,7 @@ include('../components/header.php'); ?>
                     </div>
                     <div class="pl-5">
                         <p>Qualquer empregado que violar o Código de Conduta Ética, as políticas e as normas internas da Companhia, ficará sujeito à aplicação de medidas disciplinares, nos termos da Norma de Procedimentos Sistema Disciplinar e da Consolidação das Leis do Trabalho – CLT.</p>
-                        <p>Em situações graves, a Copasa instaura o Processo Administrativo Disciplinar, estabelecido em regulamento específico, assegurando ao empregado o direito à ampla defesa e ao contraditório. Quando o ato indevido envolver práticas tipificadas nas esferas cível ou penal, o processo é remetido aos órgãos de controle competentes.</p>
+                        <p>Em situações graves, a COPASA MG poderá instaurar Processo Administrativo Disciplinar, estabelecido em regulamento específico, assegurando ao empregado o direito à ampla defesa e ao contraditório. Quando o ato indevido envolver práticas tipificadas nas esferas cível ou penal, o processo é remetido aos órgãos de controle competentes.</p>
                     </div>
                 </div>
             </div>
@@ -33,7 +33,7 @@ include('../components/header.php'); ?>
                         <h2 class="text-uppercase">Responsabilização de pessoa jurídica</b>
                     </div>
                     <div class="pl-5 pb-5">
-                        <p>A Copasa deve dar ciência formal à Controladoria-Geral do Estado – CGE/MG sobre denúncias, representações ou ocorrências que, em tese, indicam a prática de atos lesivos contra a Administração Pública, os quais estão previstos no artigo 5º da Lei Federal nº 12.846/13 (Lei Anticorrupção). </p>
+                        <p>A COPASA MG deve dar ciência formal à Controladoria-Geral do Estado – CGE/MG sobre denúncias, representações ou ocorrências que, em tese, indicam a prática de atos lesivos contra a Administração Pública, os quais estão previstos no artigo 5º da Lei Federal nº 12.846/13 (Lei Anticorrupção).</p>
                     </div>
                 </div>
             </div>

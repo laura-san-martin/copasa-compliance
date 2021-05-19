@@ -100,7 +100,7 @@ include('../components/header.php'); ?>
                         <h2>Dia Internacional de Combate a Corrupção</h2>
                     </div>
                     <p>O Dia Internacional de Combate a Corrupção é celebrado em 9 de dezembro, data em que o Brasil e mais 101 países assinaram a Convenção das Nações Unidas Contra a Corrupção, em 2003, na cidade mexicana de Mérida.</p>
-                    <p>Anualmente, a Copasa promove um evento nesta data com o objetivo de disseminar a cultura da Integridade e lembrar a todos que a Companhia está comprometida com o combate à corrupção, e não tolera que seus administradores, colaboradores, parceiros e fornecedores se envolvam em casos de fraudes e irregularidades.</p>
+                    <p>Anualmente, a Copasa promove um evento nesta data com o objetivo de disseminar a cultura da Integridade e lembrar a todos os colaboradores e à sociedade o comprometimento da Companhia ao combate à corrupção, além de não tolerar o envolvimento de seus administradores, colaboradores, parceiros e fornecedores em casos de fraudes e irregularidades.</p>
                     <div class="row py-4">
                         <div class="col-12 col-md-8">
                             <div class="row">
@@ -133,7 +133,7 @@ include('../components/header.php'); ?>
                     <div class="copasa__subtitulo d-block py-4">
                         <h2>Caravana da Integridade</h2>
                     </div>
-                        <p>Também em celebração ao Dia Internacional de Combate a Corrupção, a Superintendência de Compliance promove, anualmente, evento comemorativo em todas as Unidades de Negócio em que a Copasa atua. Esses eventos tem como objetivo disseminar a cultura da Integridade aos empregados que estão fora da região metropolitana de Belo Horizonte.</p>
+                        <p>Também em celebração ao Dia Internacional de Combate à Corrupção, a Superintendência de Compliance promove, anualmente, evento comemorativo em todas as Unidades de Negócio da Companhia. Esses eventos tem como objetivo disseminar a cultura da Integridade aos empregados que estão fora da região metropolitana de Belo Horizonte.</p>
                     <div class="row py-4">
                         <a data-fancybox="gallery3"  data-caption="Divinópolis" href="<?php echo $preUrl ?>/public/imgs/pics/caravana/Divinopolis.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/caravana/Divinopolis.jpg" />

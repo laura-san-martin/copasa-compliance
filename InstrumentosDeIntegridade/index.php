@@ -22,7 +22,7 @@ include('../components/header.php'); ?>
                         <a href="http://www.copasa.com.br/wps/portal/internet/institucional/governanca-corporativa/codigo-de-conduta" target="_blank" class="copasa__botao--alt copasa__botao--hand bg-pink color-white"><b class="px-5">Saiba mais</b></a>
                     </div>
                     <div class="pl-5">
-                        <p>O Código de Conduta Ética reúne os princípios e valores éticos que devem permear as relações da Copasa, contribuindo para o fortalecimento da ética empresarial e dos valores e condutas de integridade, bem como orientando as práticas cotidianas, as tomadas de decisão e as demais políticas da Companhia.</p>
+                        <p>O Código de Conduta Ética reúne os princípios e valores éticos que devem permear as relações da COPASA MG, contribuindo para o fortalecimento da ética empresarial, dos valores, das condutas de integridade, bem como orienta as práticas cotidianas, as tomadas de decisão e as demais políticas da Companhia.</p>
                     </div>
                 </div>
             </div>
