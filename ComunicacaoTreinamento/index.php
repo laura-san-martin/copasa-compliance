@@ -18,7 +18,7 @@ include('../components/header.php'); ?>
             <div class="row">
                 <div class="col-12 col-md-10  offset-md-1">
                     <div class="mt-5">
-                        <p>A Superintendência de Compliance tem a responsabilidade de promover a comunicação e treinar periodicamente os empregados, membros da Alta da Administração e fornecedores sobre os temas afetos à integridade e a ética.</p>
+                        <p>A Superintendência de Compliance tem a responsabilidade de promover a comunicação e treinar periodicamente os empregados, membros da Alta da Administração e fornecedores sobre os temas afetos à integridade e ética.</p>
                     </div>
                 </div>
             </div>
@@ -28,9 +28,9 @@ include('../components/header.php'); ?>
                         <h2>TREINAMENTOS REALIZADOS</h2>
                         <h2 class="mt-4">Workshop Integridade</h2>
                     </div>
-                        <p>Com o objetivo de disseminar uma cultura de integridade, difundir a importância dos controles internos e dos riscos aos quais a empresa está exposta, disseminar a Política Anticorrupção e Código de Conduta Ética, demonstrar a relevância desses valores no cotidiano da Companhia, é realizado anualmente o Workshop Integridade, destinado a todos os empregados da Copasa e Copanor.</p>
+                        <p>Com o objetivo de disseminar uma cultura de integridade, difundir a importância dos controles internos, da gestão de riscos e demonstrar a relevância desses valores no cotidiano da Companhia, é realizado anualmente o Workshop Integridade, destinado a todos os empregados da Copasa e Copanor.</p>
 
-                    <div class="row py-4">
+                    <div class="row pt-4">
                         <a data-fancybox="gallery" data-caption="Araxá" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/Araxa.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/workshop/Araxa.jpg" />
                             <p class="text-center">Araxá</p>
@@ -90,6 +90,24 @@ include('../components/header.php'); ?>
                         <a data-fancybox="gallery" data-caption="Varginha" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/Varginha.jpg" class="col-6 col-md-4  copasa__galeria">
                             <img src="<?php echo $preUrl ?>/public/imgs/pics/workshop/Varginha.jpg" />
                             <p class="text-center">Varginha</p>
+                        </a>
+                    </div>
+                    <div class="row pb-4">
+                        <a data-fancybox="gallery" data-caption="Workshop Copasa - Integridade 2018" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2018.jpg" class="col-6 col-md-3  copasa__galeria">
+                            <img  style="height: 28rem;" src="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2018.jpg" />
+                            <p class="text-center">Workshop Copasa - Integridade 2018</p>
+                        </a>
+                        <a data-fancybox="gallery" data-caption="Workshop Copasa - Integridade 2019" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2019.jpg" class="col-6 col-md-3  copasa__galeria">
+                            <img  style="height: 28rem;" src="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2019.jpg" />
+                            <p class="text-center">Workshop Copasa - Integridade 2019</p>
+                        </a>
+                        <a data-fancybox="gallery" data-caption="Workshop Copasa - Integridade 2020" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2020.jpg" class="col-6 col-md-3  copasa__galeria">
+                            <img style="height: 28rem;" src="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2020.jpg" />
+                            <p class="text-center">Workshop Copasa - Integridade 2020</p>
+                        </a>
+                        <a data-fancybox="gallery" data-caption="Workshop Copasa - Integridade 2021" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2020.jpg" class="col-6 col-md-3  copasa__galeria">
+                            <img  style="height: 28rem;" src="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2020.jpg" />
+                            <p class="text-center">Workshop Copasa - Integridade 2021</p>
                         </a>
                     </div>
                 </div>
@@ -179,9 +197,25 @@ include('../components/header.php'); ?>
                     <div class="copasa__subtitulo d-block py-4">
                         <h2>Campanha "Se liga na Integridade"</h2>
                     </div>
-                        <p>Em 06 de janeiro de 2020, iniciamos a Campanha "Se liga na Integridade". Toda segunda-feira será disponibilizado, um vídeo animado de curta duração, com conteúdos diversos que abordam temas como Plano de Integridade, Código de Conduta Ética, Combate à Corrupção, dentre outros.</p>
+                        <p>Em 2020, realizamos a Campanha "Se liga na Integridade". Toda segunda-feira foi disponibilizado um vídeo animado de curta duração na intranet, com conteúdo diverso que abordaram temas como Plano de Integridade, Código de Conduta Ética, Combate à Corrupção, dentre outros.</p>
                     <div class="py-4 px-5 text-center">
                        <img class="m-auto" src="<?php echo $preUrl ?>/public/imgs/logos/logo-se-liga.png" />
+                    </div>
+                </div>
+            </div>
+            <div class="row pt-3">
+                <div class="col-12 col-md-10  offset-md-1">
+                    <div class="copasa__subtitulo d-block py-4">
+                        <h2>Campanha "Gotas da Integridade"</h2>
+                    </div>
+                        <p>Em 2021, iniciamos a Campanha "Gotas da Integridade". Semanalmente disponibilizamos uma frase sobre integridade na intranet, visando ser um lembrete moral para os colaboradores.</p>
+                        <div class="row py-4">
+                        <a data-fancybox="gallery4" href="<?php echo $preUrl ?>/public/imgs/pics/gotas-da-integridade-1.jpg" class="col-6 col-md-4 offset-md-2 copasa__galeria">
+                            <img  style="height: 44rem;"  src="<?php echo $preUrl ?>/public/imgs/pics/gotas-da-integridade-1.jpg" />
+                        </a>
+                        <a data-fancybox="gallery4"  href="<?php echo $preUrl ?>/public/imgs/pics/gotas-da-integridade-2.jpg" class="col-6 col-md-4  copasa__galeria">
+                            <img  style="height: 44rem;" src="<?php echo $preUrl ?>/public/imgs/pics/gotas-da-integridade-2.jpg" />
+                        </a>
                     </div>
                 </div>
             </div>

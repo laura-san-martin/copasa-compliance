@@ -22,8 +22,11 @@ include('../components/header.php'); ?>
                         <a target="_blank" href="http://www.copasa.com.br/compliance/PDFs/PoliticaGestaoDeRiscos.PDF" class="copasa__botao--alt copasa__botao--hand bg-yellow-light">Política de Gestão de Riscos</a>
                     </div>
                     <div class="pl-5">
-                        <p>No mundo corporativo, várias situações podem afetar os objetivos de uma empresa e comprometer suas atividades e a geração de valor. Para anteceder crises e impedir que danos ocorram, a Copasa implantou a Gestão de Riscos. </p>
-                        <p>Trata-se de um conjunto de conhecimentos que envolvem metodologias, princípios e procedimentos que permitem à Companhia lidar com as incertezas que a afetam, sistematizando a aplicação desses conhecimentos e adaptando-os às suas necessidades para incorporá-los à gestão dos processos na empresa.</p>
+                        <p>No mundo corporativo, várias situações podem afetar os objetivos de uma empresa e comprometer suas atividades e a geração de valor. Para anteceder crises e impedir que danos ocorram, a Copasa implantou a Gestão de Riscos.</p>
+                        <p>A gestão de Riscos é um conjunto de conhecimentos, princípios e procedimentos para lidar com as incertezas que afetam a Companhia.</p>
+                        <p>Uma das diretrizes para a Gestão de Riscos da Copasa é gerenciar, de forma proativa e abrangente, os riscos associados aos processos de negócio, de gestão e de suporte, de forma a mantê-los em um nível tolerável de magnitude.</p>
+                        <p>Por fim, os riscos devem ser considerados em todas as decisões e que a sua gestão deve ser realizada de maneira integrada.</p>
+                        <div class="text-center"><img class="m-auto" style="width:400px; max-width:100%;" src="<?php echo $preUrl ?>/public/imgs/logos/logo-gestao-de-riscos.png" alt="Logo gestão de riscos" /></div>
                     </div>
                 </div>
             </div>
@@ -34,9 +37,8 @@ include('../components/header.php'); ?>
                         <a href="http://www.copasa.com.br/compliance/PDFs/PoliticaControlesInternos.PDF" target="_blank" class="copasa__botao--alt bg-yellow-light copasa__botao--hand">Política de Controles Internos</a>
                     </div>
                     <div class="pl-5">
-                        <p>O Sistema de Controle Interno da COPASA MG tem por finalidade proporcionar segurança razoável à realização dos objetivos relacionados a operações, divulgação e conformidade, em consonância com a metodologia do Committee of Sponsoring Organizations of the Treadway Commission (COSO).</p>
-                        <p>A COPASA MG adota o modelo das Três Linhas de Defesa de acordo com a Declaração de Posicionamento do Instituto dos Auditores Internos – IIA Global, o qual relaciona as funções organizacionais aos níveis de controle interno da Companhia. </p>
-                        <p>Dessa forma, as atividades de controle não são exclusividade de determinada unidade organizacional, devendo ser realizadas em todos os níveis.</p>
+                        <p>O Sistema de Controle Interno da Copasa tem por finalidade proporcionar segurança razoável à realização dos objetivos relacionados a operações, divulgação e conformidade, em consonância com a metodologia do Committee of Sponsoring Organizations of the Treadway Commission (COSO).</p>
+                        <p>A Copasa adota o modelo das Três Linhas de acordo com a Declaração de Posicionamento do Instituto dos Auditores Internos – IIA Global, o qual relaciona as funções organizacionais aos níveis de controle interno da Companhia.</p>
                         <div class="copasa__lista pt-5">
                             <ul>
                                 <li>
@@ -49,9 +51,16 @@ include('../components/header.php'); ?>
                                 </li>
                             </ul>
                         </div>
-
                         <p>Dessa forma, as atividades de controle não são exclusividade de determinada unidade organizacional, devendo ser realizadas em todos os níveis</p>
                     </div>
+                </div>
+                <div class="col-12 col-md-4 offset-md-2 text-center">
+                    <img class="m-auto" style="max-width:100%;" src="<?php echo $preUrl ?>/public/imgs/pics/gestao-riscos/InspecaoDeSegurancaPatosDeMinas2020.jpg" alt="Inspeção de segurança – Patos de Minas 2020" />
+                    <p class="text-center">Inspeção de segurança<br/>Patos de Minas 2020</p>
+                </div>
+                <div class="col-12 col-md-4 text-center">
+                    <img class="m-auto" style="max-width:100%;" src="<?php echo $preUrl ?>/public/imgs/pics/gestao-riscos/DialogosdaSegurancaSantosDumont2020.jpg" alt="Diálogos da Segurança – Santos Dumont 2020" />
+                    <p class="text-center">Diálogos da Segurança<br/>Santos Dumont 2020</p>
                 </div>
             </div>
             <div class="copasa__banner copasa__banner--6" ><img src="<?php echo $preUrl ?>/public/imgs/icons/detalhe-fundo.svg" /></div>

@@ -3,11 +3,11 @@ $preUrl = "";
 
 $opcoes = json_decode(
     '{
-    "facebookLink": "https://www.facebook.com/copasaoficial",
+    "facebookLink": "https://www.facebook.com/copasaminas",
     "youtubeLink": "https://www.youtube.com/user/TVCOPASAMG/",
-    "twitterLink": "https://www.instagram.com/copasamg/",
-    "instagramLink": "https://www.instagram.com/copasamg/",
-    "linkedInLink": "https://www.linkedin.com/company/copasamg/?originalSubdomain=br"
+    "twitterLink": "https://www.twitter.com/aquitemcopasa/",
+    "instagramLink": "https://www.instagram.com/aquitemcopasa/",
+    "linkedInLink": "https://www.linkedin.com/company/aquitemcopasa/"
 }', true
 );
 

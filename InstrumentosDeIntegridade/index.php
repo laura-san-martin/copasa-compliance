@@ -83,7 +83,7 @@ include('../components/header.php'); ?>
                         <h2>SISPATRI</h2>
                     </div>
                     <div class="pl-5">
-                        <p>Os administradores, membros de comitês, conselheiros fiscais e colaboradores, visando a prevenção de atos de improbidade administrativa que gerem enriquecimento ilícito, nos termos da Lei Federal nº 8.429/92 e no Decreto Estadual nº 46.933/16, devem preencher a declaração anual de bens e valores de seu patrimônio privado, por meio do Sistema de Registro de Bens dos Agentes Públicos – SISPATRI, gerenciado pela Controladoria-Geral do Estado - CGE.</p>
+                        <p>Os administradores, membros de comitês, conselheiros fiscais e colaboradores, visando a prevenção de atos de improbidade administrativa que gerem enriquecimento ilícito, nos termos da Lei Federal nº 8.429/92 e do Decreto Estadual nº 46.933/16, devem preencher a declaração anual de bens e valores de seu patrimônio privado, por meio do Sistema de Registro de Bens dos Agentes Públicos – SISPATRI, gerenciado pela Controladoria-Geral do Estado - CGE.</p>
                     </div>
                 </div>
             </div>
@@ -116,8 +116,9 @@ include('../components/header.php'); ?>
                         <a href="http://www.copasa.com.br/wps/portal/internet/perfil/relacionamento/canal-de-linha-etica/" target="_blank" class="copasa__botao--alt copasa__botao--hand bg-pink color-white"><b class="px-5">Saiba mais</b></a>
                     </div>
                     <div class="pl-5">
-                        <p>Em aderência aos requisitos legais e às boas práticas de Governança Corporativa e visando fortalecer mecanismos e procedimentos internos de integridade, a Copasa instituiu, em setembro de 2016, o Canal de Linha Ética, com o objetivo de receber denúncias de atos fraudulentos, irregulares ou ilegais na Companhia.</p>
+                        <p>Em aderência aos requisitos legais, às boas práticas de Governança Corporativa e visando fortalecer mecanismos internos de integridade, a Copasa instituiu, em setembro de 2016, o Canal de Linha Ética, com o objetivo de receber denúncias de atos fraudulentos, irregulares ou ilegais na Companhia.</p>
                     </div>
+                    <div class="text-center"><img style="width: 400px; max-width:100%;" src="<?php echo $preUrl ?>/public/imgs/icons/megaphone.png" alt="Imagem megafone"/></div>
                 </div>
             </div>
             <div class="row pt-3">
@@ -138,9 +139,10 @@ include('../components/header.php'); ?>
                     </div>
                     <div class="pl-5 pb-5">
                         <p>A Lei geral de Proteção de Dados Pessoais (LGPD) estabelece parâmetros relativos ao tratamento de dados pessoais.</p>
-                        <p>A Copasa possui uma Política de Proteção de Dados Pessoais, que tem por objetivo estabelecer diretrizes para uniformizar os procedimentos da Copasa no que concerne ao tratamento de dados pessoais em seus processos e a proteção desses dados.</p>
-                        <p>A Copasa também possui uma Política de Privacidade que estabelece princípios, diretrizes e responsabilidades para proteção dos dados pessoais, nos sistemas e aplicativos da Companhia e uma Norma de Procedimentos, que determina os critérios e os procedimentos para a utilização de recursos computacionais, visando a segurança das informações, tratamento, proteção, guarda/backup, publicação e utilização em ambiente web.</p>
+                        <p>A Copasa possui uma Política de Proteção de Dados Pessoais, que tem por objetivo estabelecer diretrizes para uniformizar os procedimentos internos, visando a segurança no tratamento de dados pessoais.</p>
+                        <p>A Copasa também possui uma Política de Privacidade que estabelece princípios, diretrizes e responsabilidades para proteção dos dados pessoais, nos sistemas e aplicativos da Companhia.</p>
                     </div>
+                    <div class="text-center"><img style="width: 400px; max-width:100%;" src="<?php echo $preUrl ?>/public/imgs/icons/LGPD.png" alt="Imagem megafone"/></div>
                 </div>
             </div>
             <div class="copasa__banner copasa__banner--8" ><img src="<?php echo $preUrl ?>/public/imgs/icons/detalhe-fundo.svg" /></div>
