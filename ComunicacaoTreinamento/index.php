@@ -93,21 +93,17 @@ include('../components/header.php'); ?>
                         </a>
                     </div>
                     <div class="row pb-4">
-                        <a data-fancybox="gallery" data-caption="Workshop Copasa - Integridade 2018" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2018.jpg" class="col-6 col-md-3  copasa__galeria">
-                            <img  style="height: 28rem;" src="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2018.jpg" />
+                        <a data-fancybox="gallery" data-caption="Workshop Copasa - Integridade 2018" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2018.jpg" class="col-6 col-md-4  copasa__galeria">
+                            <img  style="height: 36rem;" src="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2018.jpg" />
                             <p class="text-center">Workshop Copasa - Integridade 2018</p>
                         </a>
-                        <a data-fancybox="gallery" data-caption="Workshop Copasa - Integridade 2019" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2019.jpg" class="col-6 col-md-3  copasa__galeria">
-                            <img  style="height: 28rem;" src="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2019.jpg" />
+                        <a data-fancybox="gallery" data-caption="Workshop Copasa - Integridade 2019" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2019.jpg" class="col-6 col-md-4  copasa__galeria">
+                            <img  style="height: 36rem;" src="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2019.jpg" />
                             <p class="text-center">Workshop Copasa - Integridade 2019</p>
                         </a>
-                        <a data-fancybox="gallery" data-caption="Workshop Copasa - Integridade 2020" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2020.jpg" class="col-6 col-md-3  copasa__galeria">
-                            <img style="height: 28rem;" src="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2020.jpg" />
+                        <a data-fancybox="gallery" data-caption="Workshop Copasa - Integridade 2020" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2020.jpg" class="col-6 col-md-4  copasa__galeria">
+                            <img style="height: 36rem;" src="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2020.jpg" />
                             <p class="text-center">Workshop Copasa - Integridade 2020</p>
-                        </a>
-                        <a data-fancybox="gallery" data-caption="Workshop Copasa - Integridade 2021" href="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2020.jpg" class="col-6 col-md-3  copasa__galeria">
-                            <img  style="height: 28rem;" src="<?php echo $preUrl ?>/public/imgs/pics/workshop/workshop-integridade-2020.jpg" />
-                            <p class="text-center">Workshop Copasa - Integridade 2021</p>
                         </a>
                     </div>
                 </div>
