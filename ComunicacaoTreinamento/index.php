@@ -122,8 +122,8 @@ include('../components/header.php'); ?>
                     <div class="row py-4">
                         <div class="col-12 col-md-8">
                             <div class="row">
-                                <a data-fancybox="gallery2" href="<?php echo $preUrl ?>/public/imgs/pics/combate-corrupcao/IMG_E3935.jpg" class="col-6 copasa__galeria">
-                                    <img src="<?php echo $preUrl ?>/public/imgs/pics/combate-corrupcao/IMG_E3935.jpg" />
+                                <a data-fancybox="gallery2" href="<?php echo $preUrl ?>/public/imgs/pics/combate-corrupcao/IMG_E3935.JPG" class="col-6 copasa__galeria">
+                                    <img src="<?php echo $preUrl ?>/public/imgs/pics/combate-corrupcao/IMG_E3935.JPG" />
                                 </a>
                                 <a data-fancybox="gallery2" href="<?php echo $preUrl ?>/public/imgs/pics/combate-corrupcao/P_20181127_084930.jpg" class="col-6 copasa__galeria">
                                     <img src="<?php echo $preUrl ?>/public/imgs/pics/combate-corrupcao/P_20181127_084930.jpg" />
@@ -210,11 +210,11 @@ include('../components/header.php'); ?>
                     </div>
                         <p>Em 2021, iniciamos a Campanha "Gotas da Integridade". Semanalmente disponibilizamos uma frase sobre integridade na intranet, visando ser um lembrete moral para os colaboradores.</p>
                         <div class="row py-4">
-                        <a data-fancybox="gallery4" href="<?php echo $preUrl ?>/public/imgs/pics/gotas-da-integridade-1.jpg" class="col-6 col-md-4 offset-md-2 copasa__galeria">
-                            <img  style="height: 44rem;"  src="<?php echo $preUrl ?>/public/imgs/pics/gotas-da-integridade-1.jpg" />
+                        <a data-fancybox="gallery4" href="<?php echo $preUrl ?>/public/imgs/pics/Gotas-da-Integridade-1.jpg" class="col-6 col-md-4 offset-md-2 copasa__galeria">
+                            <img  style="height: 44rem;"  src="<?php echo $preUrl ?>/public/imgs/pics/Gotas-da-Integridade-1.jpg" />
                         </a>
-                        <a data-fancybox="gallery4"  href="<?php echo $preUrl ?>/public/imgs/pics/gotas-da-integridade-2.jpg" class="col-6 col-md-4  copasa__galeria">
-                            <img  style="height: 44rem;" src="<?php echo $preUrl ?>/public/imgs/pics/gotas-da-integridade-2.jpg" />
+                        <a data-fancybox="gallery4"  href="<?php echo $preUrl ?>/public/imgs/pics/Gotas-da-Integridade-2.jpg" class="col-6 col-md-4  copasa__galeria">
+                            <img  style="height: 44rem;" src="<?php echo $preUrl ?>/public/imgs/pics/Gotas-da-Integridade-2.jpg" />
                         </a>
                     </div>
                 </div>
